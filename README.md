@@ -26,6 +26,6 @@ TERMINAL:
 
 para rodar os testes armazenados no arquivo "example.mylang", basta usar este comando abaixo:
 
-cat example.mylang | runghc Main.hs
+- cat example.mylang | runghc Main.hs
 
 # Trabalho-final-de-LP
